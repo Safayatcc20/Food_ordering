@@ -25,6 +25,7 @@ The **Food Ordering System** is a web-based application built using JavaScript, 
 1. Open the application in a web browser.
 2. Browse the menu items and select your desired food.
 3. Add items to the cart and view the order summary.
+![food_ordering](https://github.com/user-attachments/assets/96217eef-b458-40b8-8741-5774e3d91e0c)
 
 ## Future Enhancements
 - **Backend Integration**: Add a backend system for storing and retrieving orders.
